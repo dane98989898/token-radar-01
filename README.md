@@ -1,5 +1,9 @@
 # Token Radar — make.fun token-radar-01 entry
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/dane98989898/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/dane98989898/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A radar for pre-token DeFi protocols: it ranks them by the implied value of a token
 they may one day issue, and shows how to farm each one.
 
@@ -44,3 +48,7 @@ identical bytes.
   a filtered view.
 - `vendor/makefun-board.ts` — make.fun's dossier library, copied verbatim from the kit.
 - `LICENSE` — MIT, as shipped by the kit.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=y7dx4kp2&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
